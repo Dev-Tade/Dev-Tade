@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TadCodesG
+- 👀 I’m interested in: PROGRAMMING RELATED STUFF
+- 📫 REACH ME VIA: DISCORD>Tadeo_Games#4681
