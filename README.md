@@ -1,3 +1,11 @@
 - 👋 Hi, I’m @TadCodesG
-- 👀 I’m interested in: PROGRAMMING RELATED STUFF
-- 📫 REACH ME VIA: DISCORD>Tadeo_Games#4681
+- 👀 I’m interested in: Programming
+- 📫 Reach me: Discord --> Tadeo_Games#4681
+- 📕 I know:
+- {   
+-     Python --> (Medium)
+-     C# --> (Medium)
+-     C --> (Low)
+-     Go --> (Low)
+-     Java --> (Low)
+- }
