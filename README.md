@@ -7,5 +7,4 @@
 -     C# --> (Medium)
 -     C --> (Low)
 -     Go --> (Low)
--     Java --> (Low)
 - }
