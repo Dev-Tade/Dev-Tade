@@ -3,7 +3,7 @@
 - 📫 Reach me: Discord --> Tadeo_Games#4681
 - 📕 I know:
 - **{**   
--     [Python;
+-     Python;
 -     Golang;
 -     C#
 -     C;
