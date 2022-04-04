@@ -3,8 +3,8 @@
 - 📫 Reach me: Discord --> Tadeo_Games#4681
 - 📕 I know:
 - **{**   
--     *Python ==> (Medium)*
--     *C# ==> (Medium)*
--     *C --> (Low-Med)*
--     *Go --> (Low-Med)*
+-     [Python;
+-     Golang;
+-     C#
+-     C;
 - **}**
