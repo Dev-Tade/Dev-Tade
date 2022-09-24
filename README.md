@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I’m @TadCodesG
+- 👋 Hi, I’m @Dev-Tade
 - 👀 I’m interested in: Programming and Learning new things and technologies
 - 📫 Reach me: Discord -> Tadeo_Games#4681
 - 📕 I know:
@@ -11,5 +11,3 @@
      "C":"Low-Medium",
   }
 ```
-# My Website:
-[tadcodesg.github.io](https://tadcodesg.github.io)
